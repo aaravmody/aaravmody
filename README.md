@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aarav Mody</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
 I am an aspiring full stack developer<br>I am currently learning the MERN stack<br>I strive to create seamless user experiences that delight and engage.<br>Outside of coding, you can find me playing sports and exploring new places<br>Looking forward to make many contributions on this platform 
