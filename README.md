@@ -33,3 +33,7 @@ I am an aspiring full stack developer<br>I am currently learning the MERN stack<
 ---
 [![](https://visitcount.itsvg.in/api?id=aaravmody&icon=6&color=1)](https://visitcount.itsvg.in)
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="GIF" />
+</p>
+
